@@ -10,4 +10,4 @@ The objective of the demo is to optimize an equation using genetic algorithms.
     
     What are the best values for the 5 weights w1 to w5?
     
-    The solution has been obtained using genetic algorithm for the best possible values after a number of generations.u
+    The solution has been obtained using genetic algorithm for the best possible values after a number of generations.
