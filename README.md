@@ -2,7 +2,9 @@
 
 
 
-The objective of the demo is to maximize the equation :  y = w1x1+w2x2+w3x3+w4x4+w5x5
+The objective of the demo is to optimize an equation using genetic algorithms.
+
+    Example Equation:- y = w1x1+w2x2+w3x3+w4x4+w5x5
 
     where (x1,x2,x3,x4,x5)=(8,-2,1.5,-3,-14)
     
